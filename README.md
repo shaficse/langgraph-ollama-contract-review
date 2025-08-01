@@ -1,7 +1,7 @@
 # LangGraph-Ollama Legal Workflow
 
 A legal contract analysis pipeline built in a Jupyter notebook using **LangGraph** and **Ollama (LLaMA 3)**. This project showcases how to create an explainable, modular pipeline for extracting clauses, classifying legal intent, detecting risks, and summarizing contract content — all from plain-text inputs.
-
+💡 Note: In an upcoming repository, we will convert this workflow into an agentic solution that allows dynamic tool selection and reasoning.
 ---
 
 ## 🔧 Features
