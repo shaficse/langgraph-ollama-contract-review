@@ -1,0 +1,14 @@
+# Core LangGraph
+langgraph==0.5.4
+
+# LangChain core & community extensions
+langchain-core>=0.0.200
+langchain-community>=0.0.20
+
+# Chat models and tools
+pydantic>=1.10.0
+xxhash>=3.2.0
+typing-extensions>=4.0.0
+
+# For interactive display (optional)
+ipython>=8.0.0
