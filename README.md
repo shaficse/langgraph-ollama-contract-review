@@ -67,28 +67,6 @@ In another terminal:
 ollama run llama3 <<< "Hello, Ollama!"
 ```
 
-### 5. Optional: Docker-Based Setup
-
-**CPU Only**
-
-```bash
-docker run -d \
-  -v ollama:/root/.ollama \
-  -p 11434:11434 \
-  --name ollama \
-  ollama/ollama
-```
-
-**NVIDIA GPU Support**
-
-```bash
-docker run -d --gpus=all \
-  -v ollama:/root/.ollama \
-  -p 11434:11434 \
-  --name ollama \
-  ollama/ollama
-```
-
 ---
 
 ## 🚀 Run the Notebook
