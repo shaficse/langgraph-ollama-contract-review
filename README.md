@@ -24,8 +24,6 @@ A legal contract analysis pipeline built in a Jupyter notebook using **LangGraph
 ### Python Environment
 
 ```bash
-python -m venv venv
-source venv/bin/activate
 pip install -r requirements.txt
 ```
 
